@@ -2,6 +2,6 @@
 
 This is such a cool website!
 
--[Games](/games.md)
+- [Games](/games.md)
 
 hi
