@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Noahhhj's website
+
+This is such a cool website!
 
 You can use the [editor on GitHub](https://github.com/noahhhj/noahhhj.gihub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
