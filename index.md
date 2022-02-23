@@ -3,5 +3,6 @@
 This is such a cool website!
 
 - [Games](/games.md)
+- [Bookmarklets](/bookmarklets.md)
 - [Other Links](/other.md)
 
